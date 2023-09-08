@@ -1,2 +1,2 @@
 git ini
-git clone <Repo_url>
+git clone <Repo_ur>
